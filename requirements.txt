@@ -1,0 +1,6 @@
+fastapi
+uvicorn[standard]
+nimble_python
+groq
+python-dotenv
+pydantic
